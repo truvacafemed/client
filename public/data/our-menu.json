@@ -1,0 +1,1121 @@
+[
+    {
+        "category":"breakfast",
+        "name":"DELUXE BREAKFAST PLATE",
+        "description":"Premium quality feta cheese, cecil cheese, kashkaval cheese, black and green olives, beef sausage, cheese roll borek, fresh mix green and sliced tomato-cucumber, honey, butter, nutella, jam, walnut, sun-dried apricot served with simit and homemade bread.",
+        "price":29.99
+    },
+    {
+        "category":"breakfast",
+        "name":"MENEMEN",
+        "description":"Eggs in tomato sauce with sweet green peppers, red peppers and onions. (gf-v)",
+        "price":14.99
+    },
+    {
+        "category":"breakfast",
+        "name":"SAHANDA SUCUK",
+        "description":"Pan fried Turkish pepperoni. (gf)",
+        "price":12.99
+    },
+    
+
+    {
+        "category":"omelettes",
+        "name":"CHEESE OMELETTE",
+        "description":"Filled with cheese. Served with home fries, mix greens and tomatoes. (gf-v)",
+        "price":11.99
+    },
+    {
+        "category":"omelettes",
+        "name":"EVERYTHING OMELETTE",
+        "description":"Filled with sucuk, beef sausage, veggies and mozzarella cheese. Served with home fries, mix greens and tomatoes. (gf)",
+        "price":15.99
+    },
+    {
+        "category":"omelettes",
+        "name":"AVOCADO OMELETTE",
+        "description":"Filled with avocado, parsley and fresh dill. Served with home fries, mix greens and tomatoes. (gf-v)",
+        "price":12.99
+    },
+    {
+        "category":"omelettes",
+        "name":"VEGGIE OMELETTE",
+        "description":"Mozzarella cheese, broccoli, mushrooms, onion, red and green pepper. Served with home fries, mix green and tomatoes. (gf-v)",
+        "price":12.99
+    },
+    {
+        "category":"omelettes",
+        "name":"SUNNY SIDE UP EGG",
+        "description":"Two sunny side up eggs. Served with home fries. (gf-v)",
+        "price":9.99
+    },
+    {
+        "category":"omelettes",
+        "name":"SCRAMBLED EGG",
+        "description":"Two scrambled eggs. Served with home fries. (gf-v)",
+        "price":9.99
+    },
+    {
+        "category":"omelettes",
+        "name":"EGGS W/ SUCUK",
+        "description":"Sucuk with two sunny side up eggs. Served with home fries. (gf)",
+        "price":14.99
+    },
+    {
+        "category":"omelettes",
+        "name":"EGGS W/ PASTRAMI",
+        "description":"Pastrami with two sunny side up eggs. Served with home fries. (gf)",
+        "price":15.99
+    },
+
+
+    {
+        "category":"bakery",
+        "name":"SIMIT",
+        "description":"Turkish thin sesame bagel. (v)",
+        "price":3.99
+    },
+    {
+        "category":"bakery",
+        "name":"ACMA",
+        "description":"Soft Turkish buns. (v)",
+        "price":3.99
+    },
+    {
+        "category":"bakery",
+        "name":"POGACA W/ CHEESE",
+        "description":"Pastry with cheese filling. (v)",
+        "price":3.99
+    },
+    {
+        "category":"bakery",
+        "name":"POGACA W/ OLIVES",
+        "description":"Pastry with pureed olives filling. (v)",
+        "price":3.99
+    },
+    {
+        "category":"bakery",
+        "name":"DILL PASTRY",
+        "description":"Pastry with dill. (v)",
+        "price":3.99
+    },
+    {
+        "category":"bakery",
+        "name":"TAHINI ROLL",
+        "description":"Crispy dough wrapped in a roll filled with tahini. (v)",
+        "price":3.99
+    },
+    {
+        "category":"bakery",
+        "name":"SIMIT AVOCADO",
+        "description":"Thin Turkish sesame bagel topped with fresh avocado and egg. (gf-v)",
+        "price":13.99
+    },
+    {
+        "category":"bakery",
+        "name":"SIMIT OTTOMAN",
+        "description":"Turkish thin sesame bagel topped with sucuk, mozzarella cheese, mix greens and tomatoes.",
+        "price":14.99
+    },
+    {
+        "category":"bakery",
+        "name":"SIMIT MEDITERRANEAN",
+        "description":"Turkish thin sesame bagel topped with feta cheese, tomatoes, cucumber, mix greens and tomatoes. (v)",
+        "price":12.99
+    },
+
+
+    {
+        "category":"crepes-pancakes",
+        "name":"TRUVA SPECIAL CREPE",
+        "description":"Crepes filled with cheese, parsley, red and green peppers topped with mozzarella cheese. (v)",
+        "price":14.99
+    },
+    {
+        "category":"crepes-pancakes",
+        "name":"MIXED FRUIT CREPE",
+        "description":"Two crepes filled with fresh strawberries and bananas dusted with powdered sugar and maple syrup. (v)",
+        "price":11.99
+    },
+    {
+        "category":"crepes-pancakes",
+        "name":"CHOCOLATE CREPE",
+        "description":"Two chocolate chip crepes with vanilla drizzle. (v)",
+        "price":11.99
+    },
+    {
+        "category":"crepes-pancakes",
+        "name":"PANCAKE",
+        "description":"Two large buttermilk pancakes topped with powdered sugar and syrup. (v)",
+        "price":9.99
+    },
+    {
+        "category":"crepes-pancakes",
+        "name":"OVERNIGHT OATS",
+        "description":"Overnight oats with fresh berries and honey. (v)",
+        "price":9.99
+    },
+    {
+        "category":"crepes-pancakes",
+        "name":"CHEESE ROLL BOREK",
+        "description":"Flaky pastry with cheese and parsley, lightly fried.",
+        "price":11.99
+    },
+    {
+        "category":"crepes-pancakes",
+        "name":"SPINACH BOREK",
+        "description":"Flaky pastry with cheese and spinach from the oven.",
+        "price":11.99
+    },
+    {
+        "category":"crepes-pancakes",
+        "name":"MEAT PIE",
+        "description":"Flaky pastry with ground lamb, beef, and favorite spices from the oven.",
+        "price":12.99
+    },
+    {
+        "category":"crepes-pancakes",
+        "name":"FRUIT YOGURT",
+        "description":"Home made fresh yogurt with honey, seasonal fruits and nuts. (gf-v-n)",
+        "price":9.99
+    },
+    {
+        "category":"crepes-pancakes",
+        "name":"FRUIT SALAD",
+        "description":"Seasonal mix fruits. (gf-v)",
+        "price":9.99
+    },
+
+
+    {
+        "category":"soups",
+        "name":"LENTIL SOUP",
+        "description":"Red lentils, onions, carrots, potatoes. (gf-df-v)",
+        "price":8.99
+    },
+    {
+        "category":"soups",
+        "name":"CHICKEN SOUP",
+        "description":"A creamy soup with diced chicken, dill, carrots and mushrooms. (gf)",
+        "price":8.99
+    },
+
+
+
+    {
+        "category":"salads",
+        "name":"SHEPHERD SALAD",
+        "description":"Chopped tomatoes, cucumbers onions, green peppers, parsley and vinegar dressing. (gf-df-v)",
+        "price":14.99
+    },
+    {
+        "category":"salads",
+        "name":"TRUVA MIXED SALAD",
+        "description":"Romaine hearts and spring mix, tomatoes, cucumbers, apricots, roasted almonds, cranberries, feta cheese and basil vinegar dressing. (gf-df-v-n)",
+        "price":14.99
+    },
+    {
+        "category":"salads",
+        "name":"ARUGULA SALAD",
+        "description":"Baby arugula, cherry tomatoes, red pepper, red onion and sliced almonds, walnuts with balsamic dressing. (gf-df-v-n)",
+        "price":14.99
+    },
+    {
+        "category":"salads",
+        "name":"MEDITERRANEAN SALAD",
+        "description":"Romaine hearts, cherry tomatoes, cucumber, kalamata olives, red onions, feta cheese with house dressing. (gf-df-v)",
+        "price":13.99
+    },
+    {
+        "category":"salads",
+        "name":"OCTOPUS SALAD",
+        "description":"Baby octopus, mixed greens, cherry tomatoes, cucumbers, red peppers, green peppers, and onions with olive oil dressing. (gf-df)",
+        "price":17.99
+    },
+
+
+    {
+        "category":"cold-starters",
+        "name":"HUMMUS",
+        "description":"Chickpeas spread with tahini, lemon, olive oil, pine seeds. (gf-v-n)",
+        "price":9.99
+    },
+    {
+        "category":"cold-starters",
+        "name":"BABAGANOUSH",
+        "description":"Smoked eggplant puree flavored with tahini, olive oil and garlic. (gf-v)",
+        "price":9.99
+    },
+    {
+        "category":"cold-starters",
+        "name":"EGGPLANT IN SAUCE",
+        "description":"Fried eggplant with green and red peppers, garlic and in our house-made tomato sauce. (gf-df-v)",
+        "price":9.99
+    },
+    {
+        "category":"cold-starters",
+        "name":"SPICY EZME",
+        "description":"Finely chopped tomatoes, hot peppers, onions and walnuts mixed in olive oil and herbs. (gf-df-v-n)",
+        "price":9.99
+    },
+    {
+        "category":"cold-starters",
+        "name":"CARROT TARATOR",
+        "description":"Thickened home made yogurt, carrot, garlic, dill and walnuts. (gf-v-n)",
+        "price":9.99
+    },
+    {
+        "category":"cold-starters",
+        "name":"PIYAZ (WHITE BEAN SALAD)",
+        "description":"White beans with parsley, tomatoes, red and green peppers, red onions and dressed with olive oil and lemon juice.(gf-df-v)",
+        "price":12.99
+    },
+    {
+        "category":"cold-starters",
+        "name":"LABNEH V/GF",
+        "description":"Thickened home-made yogurt with dill, mint, garlic and walnuts. (gf-v)",
+        "price":9.99
+    },
+    {
+        "category":"cold-starters",
+        "name":"TABBOULEH",
+        "description":"Cracked wheat tossed, parsley, spring onions and fresh red peppers. Dressed with olive oil and lemon juice.",
+        "price":9.99
+    },
+    {
+        "category":"cold-starters",
+        "name":"STUFFED GRAPE LEAVES",
+        "description":"Grape leaves stuffed with rice, pine nuts, currant, flavorful herbs(gf-df-v-n)",
+        "price":11.99
+    },
+    {
+        "category":"cold-starters",
+        "name":"PINTO BEANS",
+        "description":"Pinto beans with carrots, potatoes, onions and garlic, seasoned with a light tomato sauce. (gf-df-v)",
+        "price":9.99
+    },
+    {
+        "category":"cold-starters",
+        "name":"SHRIMP COCKTAIL",
+        "description":"Boiled shrimp with cocktail sauce. (gf-df))",
+        "price":15.99
+    },
+    {
+        "category":"cold-starters",
+        "name":"APPETIZER SAMPLER (FOR 2 PEOPLE)",
+        "description":"Hummus, Babaganoush, Eggplant in Sauce, Labne, Tabbouleh, Ezme, Stuffed Grape",
+        "price":20.99
+    },
+    {
+        "category":"cold-starters",
+        "name":"APPETIZER SAMPLER (FOR 4 PEOPLE)",
+        "description":"Hummus, Babaganoush, Eggplant in Sauce, Labne, Tabbouleh, Ezme, Stuffed Grape Leaves",
+        "price":30.99
+    },
+
+
+
+    {
+        "category":"hot-mezzes",
+        "name":"FRIED CALAMARI",
+        "description":"Fried rings of baby calamari lightly breaded with flour. Served with our special tartar sauce. (df)",
+        "price":15.99
+    },
+    {
+        "category":"hot-mezzes",
+        "name":"CHEESE ROLL BOREK V",
+        "description":"Flaky pastry with cheese and parsley lightly fried. (v)",
+        "price":11.99
+    },
+    {
+        "category":"hot-mezzes",
+        "name":"FALAFEL",
+        "description":"Chickpeas-vegetable fritters with tahini sauce. (v-n)",
+        "price":10.99
+    },
+    {
+        "category":"hot-mezzes",
+        "name":"PAN FRIED VEAL LIVER",
+        "description":"Cubes of tender calf liver sauteed with assorted herbs and spices. (df)",
+        "price":15.99
+    },
+    {
+        "category":"hot-mezzes",
+        "name":"SPINACH BOREK V",
+        "description":"Flaky pastry with cheese and spinach from the oven. (v)",
+        "price":11.99
+    },
+    {
+        "category":"hot-mezzes",
+        "name":"MEAT PIE",
+        "description":"Flaky pastry with cheese and spinach from the oven. (v)",
+        "price":12.99
+    },
+
+
+    {
+        "category":"kebabs",
+        "name":"DONER KEBAB GF",
+        "description":"Hand carved marinated sliced lamb and beef, grilled on a large vertical rotisserie. Served with low carb vegetables & rice pilaf. (gf-df)",
+        "price":24.99
+    },
+    {
+        "category":"kebabs",
+        "name":"LAMB SHISH KEBAB",
+        "description":"Tender cubes of lamb marinated in our special sauce. Served with low carb vegetables & bulgur pilaf. (df)",
+        "price":26.99
+    },
+    {
+        "category":"kebabs",
+        "name":"LAMB CHOPS GF",
+        "description":"Delicately marinated and baby lamb chops. Served with low carb vegetables & mashed potatoes. (gf-df)",
+        "price":42.99
+    },
+    {
+        "category":"kebabs",
+        "name":"CHICKEN ADANA KEBAB GF",
+        "description":"Seasoned ground chicken flavored with red bell peppers. Served with low carb vegetables & bulgur pilaf. (df)",
+        "price":23.99
+    },
+    {
+        "category":"kebabs",
+        "name":"CHEF'S MIXED GRILL FOR 2 PEOPLE",
+        "description":"Doner Kebab, Adana Kebab, Shish Kebab, Chicken Kebab, Chicken Adana Kebab Served with grilled vegetable and bulgur pilaf.",
+        "price":49.99
+    },
+    {
+        "category":"kebabs",
+        "name":"KOFTE KEBAB",
+        "description":"Patties of freshly ground beef and lamb lightly seasoned with spices. Served with low carb vegetables & rice pilaf. (gf-df)",
+        "price":24.99
+    },
+    {
+        "category":"kebabs",
+        "name":"ISKENDER KEBAB",
+        "description":"Slices of Doner Kebab roasted bread served with yogurt and tomato sauce. (df)",
+        "price":25.99
+    },
+    {
+        "category":"kebabs",
+        "name":"ADANA KEBAB GF",
+        "description":"Seasoned ground lamb flavored with red bell peppers. Served with low carb vegetables & bulgur pilaf. (df)",
+        "price":24.99
+    },
+    {
+        "category":"kebabs",
+        "name":"CHICKEN KEBAB GF",
+        "description":"Cubes of chicken marinated in our special sauce. Served with low carb vegetables & bulgur pilaf. (df)",
+        "price":23.99
+    },
+    {
+        "category":"kebabs",
+        "name":"CHICKEN THIGHS",
+        "description":"Chicken marinated in our special sauce. Served with low carb vegetables & bulgur pilaf. (df)",
+        "price":24.99
+    },
+    {
+        "category":"kebabs",
+        "name":"CHEF'S MIXED GRILL FOR 4 PEOPLE",
+        "description":"Doner, Adana, Shish, Chicken, Chicken Adana Kebab Served with low carb vegetables & bulgur pilaf.",
+        "price":94.99
+    },
+    {
+        "category":"kebabs",
+        "name":"BEEF TENDERLOIN KEBAB",
+        "description":"Tender cubes of beef marinated in our chef's unique seasonings. Served with vegetables & rice pilaf",
+        "price":32.99
+    },
+
+
+
+    {
+        "category":"chefs-specials",
+        "name":"SHEPHERD CASSEROLE GF",
+        "description":"Lamb sauteed with garlic, onions, peppers, tomatoes and special herbs. Served with rice pilaf. (gf-df)",
+        "price":25.99
+    },
+    {
+        "category":"chefs-specials",
+        "name":"OKRA STEW",
+        "description":"Baby okra baked with vegetables and served with rice pilaf. (gf-df-v)",
+        "price":20.99
+    },
+    {
+        "category":"chefs-specials",
+        "name":"FALAFEL",
+        "description":"Fried chickpeas and vegetables served with shepherd salad and hummus.",
+        "price":19.99
+    },
+    {
+        "category":"chefs-specials",
+        "name":"VEGETABLE STEW",
+        "description":"Assorted fresh garden vegetables cooked in a fresh tomato sauce and served with rice pilaf. (gf-df-v)",
+        "price":19.99
+    },
+    {
+        "category":"chefs-specials",
+        "name":"STUFFED CABBEGE ROLLS",
+        "description":"Cabbage leaves stuffed with rice, ground lamb and beef, mixed with herbs and house-made tomato sauce. (gf-df)",
+        "price":23.99
+    },
+    {
+        "category":"chefs-specials",
+        "name":"STUFFED CABBEGE ROLLS",
+        "description":"Cabbage leaves stuffed with rice, ground lamb and beef, mixed with herbs and house-made tomato sauce. (gf-df)",
+        "price":23.99
+    },
+    {
+        "category":"chefs-specials",
+        "name":"SULTAN'S FAVORITE GF",
+        "description":"Mashed smoked eggplant topped with marinated cube lamb and with our house-made tomato sauce. (gf)",
+        "price":26.99
+    },
+    {
+        "category":"chefs-specials",
+        "name":"SPICY CHICKEN SAUTÉ GF",
+        "description":"Chicken sautéed with tomatoes, mushroom, onion, garlic, red and green peppers. Served with rice pilaf. (gf-df)",
+        "price":23.99
+    },
+    {
+        "category":"chefs-specials",
+        "name":"MOUSSAKA",
+        "description":"Eggplant, potatoes, red and green peppers, ground beef, bechamel sauce & kashkaval cheese. Served with rice pilaf. (gf)",
+        "price":23.99
+    },
+
+
+    {
+        "category":"chefs-specials",
+        "name":"GRILLED WHOLE BRANZINO GF",
+        "description":"Branzino (Mediterranean Seabass) grilled butterfly open flame. Served with low carb vegetables & mashed potatoes. (gf-df)",
+        "price":34.99
+    },
+    {
+        "category":"chefs-specials",
+        "name":"GRILLED FILET OF SALMON GF",
+        "description":"Char-grilled salmon with spinach sauteed. Served with rice pilaf. (gf-df)",
+        "price":25.99
+    },
+    {
+        "category":"chefs-specials",
+        "name":"GRILLED SHRIMP GF",
+        "description":"Char-grilled jumbo shrimp with marinated in our special sauce. Served with low carb vegetables & rice pilaf. (gf-df)",
+        "price":25.99
+    },
+    {
+        "category":"chefs-specials",
+        "name":"SALMON IN GRAPE LEAVES GF",
+        "description":"Char-grilled chunks of marinated salmon wrapped in grape leaves and vegetable sauce. Served with rice pilaf. (gf-df)",
+        "price":26.99
+    },
+    {
+        "category":"chefs-specials",
+        "name":"SHRIMP CASSEROLE GF",
+        "description":"Sautéed jumbo shrimp baked in a vegetable sauce, topped with mozzarella cheese. Served with rice pilaf. (gf)",
+        "price":26.99
+    },
+    {
+        "category":"chefs-specials",
+        "name":"GRILLED SWORDFISH STEAK",
+        "description":"Char-grilled swordfish marinated in our chef's unique seasonings. Served with vegetables, salad & rice pilaf. (gf)",
+        "price":26.99
+    },
+
+
+    {
+        "category":"seafood",
+        "name":"GRILLED WHOLE BRANZINO GF",
+        "description":"Branzino (Mediterranean Seabass) grilled butterfly open flame. Served with low carb vegetables & mashed potatoes. (gf-df)",
+        "price":34.99
+    },
+    {
+        "category":"seafood",
+        "name":"GRILLED FILET OF SALMON GF",
+        "description":"Char-grilled salmon with spinach sauteed. Served with rice pilaf. (gf-df)",
+        "price":25.99
+    },
+    {
+        "category":"seafood",
+        "name":"GRILLED SHRIMP GF",
+        "description":"Char-grilled jumbo shrimp with marinated in our special sauce. Served with low carb vegetables & rice pilaf. (gf-df)",
+        "price":25.99
+    },
+    {
+        "category":"seafood",
+        "name":"SALMON IN GRAPE LEAVES GF",
+        "description":"Char-grilled chunks of marinated salmon wrapped in grape leaves and vegetable sauce. Served with rice pilaf. (gf-df)",
+        "price":26.99
+    },
+    {
+        "category":"seafood",
+        "name":"SHRIMP CASSEROLE GF",
+        "description":"Sautéed jumbo shrimp baked in a vegetable sauce, topped with mozzarella cheese. Served with rice pilaf. (gf)",
+        "price":26.99
+    },
+    {
+        "category":"seafood",
+        "name":"GRILLED SWORDFISH STEAK",
+        "description":"Char-grilled swordfish marinated in our chef's unique seasonings. Served with vegetables, salad & rice pilaf. (gf)",
+        "price":26.99
+    },
+
+
+
+    {
+        "category":"steaks",
+        "name":"FILET MIGNON STEAK",
+        "description":"Grilled Filet Mignon (8 oz.) with low carb vegetables, mashed potato with the demi-glace sauces. (gf-df)",
+        "price":39.99
+    },
+    {
+        "category":"steaks",
+        "name":"RIBEYE STEAK",
+        "description":"Grilled Ribeye steak (14 oz.) Served with low carb vegetables & mashed potatoes. (gf)",
+        "price":42.99
+    },
+    {
+        "category":"steaks",
+        "name":"LAMB CHOPS",
+        "description":"Delicately marinated and baby lamb chops. Served with low carb vegetables & mashed potatoes. (gf)",
+        "price":42.99
+    },
+
+
+
+    {
+        "category":"pasta",
+        "name":"FETTUCINE ALFREDO POLLO",
+        "description":"Sauteed Vegetable with parmesan.",
+        "price":21.99
+    },
+    {
+        "category":"pasta",
+        "name":"SEAFOOD ALFREDO",
+        "description":"Sauteed Shrimp and Octopus with creamy sauce.",
+        "price":27.99
+    },
+    {
+        "category":"pasta",
+        "name":"SPAGHETTI BOLOGNESE",
+        "description":"Meat sauce with ground meat, tomato sauce and parmesan.",
+        "price":20.99
+    },
+
+
+    {
+        "category":"from-the-oven",
+        "name":"CHEESE FLATBREAD V",
+        "description":"House-made flat bread topped with cheese. (v)",
+        "price":17.99
+    },
+    {
+        "category":"from-the-oven",
+        "name":"LAHMACUN (TURKISH-STYLE PIZZA)",
+        "description":"Thin crust dough topped with ground lamb and beef, chopped garden vegetables. (df)",
+        "price":19.99
+    },
+    {
+        "category":"from-the-oven",
+        "name":"DONER FLATBREAD",
+        "description":"House-made flatbread topped with mozzarella and gyro meat.",
+        "price":19.99
+    },
+    {
+        "category":"from-the-oven",
+        "name":"TURKISH PEPPERONI FLATBREAD",
+        "description":"Home-made flatbread topped with mozzarella and Turkish beef pepperoni.",
+        "price":19.99
+    },
+    {
+        "category":"from-the-oven",
+        "name":"MEAT CUBES FLATBREAD",
+        "description":"Home-made flatbread topped with cubes meat, chopped garden vegetables and mozarella.",
+        "price":21.99
+    },
+    {
+        "category":"from-the-oven",
+        "name":"SPINACH FLATBREADS",
+        "description":"House-made flatbread topped with mozzarella, fresh spinach. (v)",
+        "price":18.99
+    },
+    {
+        "category":"from-the-oven",
+        "name":"BLACK SEA FLATBREAD",
+        "description":"House made flat bread stuffed with mozzarella, onions, tomatoes and ground lamb.",
+        "price":19.99
+    },
+
+
+
+    {
+        "category":"dessert",
+        "name":"BAKLAVA",
+        "description":"Sheets of phyllo dough stuffed with crushed walnuts. (n)",
+        "price":10.99
+    },
+    {
+        "category":"dessert",
+        "name":"CHOCOLATE PUDDING",
+        "description":"Milk, bitter chocolate, cornstarch and powder sugar. (v)",
+        "price":9.99
+    },
+    {
+        "category":"dessert",
+        "name":"KUNEFE",
+        "description":"Shredded phyllo dough stuffed with fresh mozzarella cheese. Baked when ordered and served hot.",
+        "price":13.99
+    },
+    {
+        "category":"dessert",
+        "name":"MARAS ICE CREAM",
+        "description":"",
+        "price":12.50
+    },
+    {
+        "category":"dessert",
+        "name":"SPECIAL BAKLAVA",
+        "description":"Sheets of phyllo dough stuffed with crushed pistachios. (n)",
+        "price":14.99
+    },
+    {
+        "category":"dessert",
+        "name":"RICE PUDDING",
+        "description":"Our homemade recipe for a classic baked rice pudding topped with cinnamon. (gf)",
+        "price":9.99
+    },
+    {
+        "category":"dessert",
+        "name":"CARAMELIZED PUDDING (CUSTARD)",
+        "description":"Milk pudding with a caramelized toasted surface.",
+        "price":9.99
+    },
+
+
+
+    {
+        "category":"sandwiches",
+        "name":"DONER KEBAB",
+        "description":"Hand carved marinated ground lamb and beef, grilled on a large vertical rotisserie. Served with salad & rice pilaf. (gf)",
+        "price":16.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"ADANA KEBAB",
+        "description":"Seasoned ground lamb flavored with red bell peppers. Served with salad & bulgur pilaf. (df)",
+        "price":16.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"CHICKEN KEBAB",
+        "description":"Cubes of chicken marinated in our special sauce. Served with salad & bulgur pilaf. (df)",
+        "price":15.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"CHICKEN THIGHS",
+        "description":"Chicken marinated in our special sauce. Served with salad & bulgur pilaf.",
+        "price":15.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"SHEPHERD CASSEROLE",
+        "description":"Chicken sautéed with tomatoes, mushroom, onion, garlic, red and green peppers. Served with rice pilaf. (gf-df)",
+        "price":18.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"FALAFEL",
+        "description":"Fried chickpeas and vegetables served with shepherd salad and hummus.",
+        "price":14.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"DONER (GYRO) SANDWICH",
+        "description":"",
+        "price":16.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"ADANA SANDWICH",
+        "description":"",
+        "price":16.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"KOFTE SANDWICH",
+        "description":"",
+        "price":16.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"LAMB SHISH KEBAB",
+        "description":"Tender cubes of lamb marinated in our special sauce. Served with salad & bulgur pilaf. (df)",
+        "price":18.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"KOFTE KEBAB",
+        "description":"Patties of freshly ground beef and lamb lightly seasoned with spices. Served with salad & rice pilaf. (gf-df)",
+        "price":16.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"CHICKEN ADANA KEBAB",
+        "description":"Seasoned ground chicken flavored with red bell peppers. Served with salad & bulgur pilaf. (df)",
+        "price":15.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"CHICKEN SAUTE",
+        "description":"Chicken sautéed with tomatoes, mushroom, onion, garlic, red and green peppers. Served with rice pilaf. (gf-df)",
+        "price":16.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"OKRA STEW",
+        "description":"Baby okra baked with vegetables and served with rice pilaf. (gf-df-v)",
+        "price":15.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"VEGETABLE STEW",
+        "description":"Assorted fresh garden vegetables cooked in a fresh tomato sauce and serve with rice pilaf. (gf-df-v)",
+        "price":14.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"CHICKEN SANDWICH",
+        "description":"",
+        "price":15.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"CHICKEN ADANA SANDWICH",
+        "description":"",
+        "price":15.99
+    },
+    {
+        "category":"sandwiches",
+        "name":"FALAFEL SANDWICH",
+        "description":"",
+        "price":15.99
+    },
+
+
+
+    {
+        "category":"drinks",
+        "name":"TURKISH COFFEE",
+        "description":"",
+        "price":4.99
+    },
+    {
+        "category":"drinks",
+        "name":"HERBAL TEA",
+        "description":"(Mint Tea, Green Tea, Apple Tea)",
+        "price":3.50
+    },
+    {
+        "category":"drinks",
+        "name":"FRESH ORANGES",
+        "description":"",
+        "price":4.99
+    },
+    {
+        "category":"drinks",
+        "name":"PERRIER",
+        "description":"",
+        "price":3.99
+    },
+    {
+        "category":"drinks",
+        "name":"FRESH ORANGE JUICES",
+        "description":"",
+        "price":4.99
+    },
+    {
+        "category":"drinks",
+        "name":"PERRIER & PALLEGRINO (SMALL)",
+        "description":"",
+        "price":3.99
+    },
+    {
+        "category":"drinks",
+        "name":"TURKISH TEA",
+        "description":"",
+        "price":2.99
+    },
+    {
+        "category":"drinks",
+        "name":"AMERICANO",
+        "description":"",
+        "price":3.50
+    },
+    {
+        "category":"drinks",
+        "name":"AYRAN",
+        "description":"",
+        "price":4.99
+    },
+    {
+        "category":"drinks",
+        "name":"CRANBERRY",
+        "description":"",
+        "price":3.99
+    },
+    {
+        "category":"drinks",
+        "name":"PEPSI PRODUCTS",
+        "description":"(Pepsi, Diet Pepsi, Lemonade, Crush, Twist, Ginger Ale, Mtn Dew, Diet Mtn Dew, Iced Tea, Unsweet Iced Tea)",
+        "price":3.50
+    },
+
+
+
+    {
+        "category":"sides",
+        "name":"CHEESE PLATE",
+        "description":"",
+        "price":15.99
+    },
+    {
+        "category":"sides",
+        "name":"FRENCH FRIES",
+        "description":"",
+        "price":5.99
+    },
+    {
+        "category":"sides",
+        "name":"BULGUR PILAF",
+        "description":"",
+        "price":6.99
+    },
+    {
+        "category":"sides",
+        "name":"LOW CARB VEGETABLE",
+        "description":"",
+        "price":6.99
+    },
+    {
+        "category":"sides",
+        "name":"SIDE TAZIKI SAUCE",
+        "description":"",
+        "price":1.99
+    },
+    {
+        "category":"sides",
+        "name":"WHOLE BREAD EXTRA",
+        "description":"",
+        "price":3.50
+    },
+    {
+        "category":"sides",
+        "name":"RICE PILAF",
+        "description":"",
+        "price":5.99
+    },
+    {
+        "category":"sides",
+        "name":"MASHED POTATO",
+        "description":"",
+        "price":5.99
+    },
+    {
+        "category":"sides",
+        "name":"SIDE CHEESE",
+        "description":"",
+        "price":3.99
+    },
+    {
+        "category":"sides",
+        "name":"BREAD EXTRA",
+        "description":"",
+        "price":4.99
+    },
+    {
+        "category":"sides",
+        "name":"DIPPING SAUCE",
+        "description":"",
+        "price":6.99
+    },
+
+
+
+    {
+        "category":"coctail",
+        "name":"TRUVA LADYBUG",
+        "description":"Whiskey, blackberry syrup, lime juice",
+        "price":12
+    },
+    {
+        "category":"coctail",
+        "name":"STRAWBERRY MULE",
+        "description":"Vodka, lime juice, strawberries, ginger beer",
+        "price":12
+    },
+    {
+        "category":"coctail",
+        "name":"OLD FASHIONED",
+        "description":"Whiskey, simple syrup, orange bitter",
+        "price":12
+    },
+    {
+        "category":"coctail",
+        "name":"MARGARITA",
+        "description":"Tequila, agave nectar, lime juice",
+        "price":12
+    },
+    {
+        "category":"coctail",
+        "name":"MANHATTAN",
+        "description":"Whiskey, sweet vermouth, angostura bitter",
+        "price":13
+    },
+    {
+        "category":"coctail",
+        "name":"MOSCOW MULE",
+        "description":"Vodka, ginger beer, lime juice",
+        "price":12
+    },
+    {
+        "category":"coctail",
+        "name":"MIMOSA",
+        "description":"Sparkling wine, orange juice",
+        "price":13
+    },
+    {
+        "category":"coctail",
+        "name":"BLOOD ORANGE WHISKEY SOUR",
+        "description":"Whiskey, Cointreau, orange juice, lemon juice",
+        "price":13
+    },
+    {
+        "category":"coctail",
+        "name":"GOBAKA",
+        "description":"Kahlua, baileys,chocolate liqour.",
+        "price":12
+    },
+    {
+        "category":"coctail",
+        "name":"LONG ISLAND ICED TEA",
+        "description":"Vodka, Rum, Tequila, Gin, trpile sec",
+        "price":15
+    },
+    {
+        "category":"coctail",
+        "name":"PERFECT MARTINI",
+        "description":"Gin, martini rosso, sweet vermouth",
+        "price":12
+    },
+    {
+        "category":"coctail",
+        "name":"DIRTY MARTINI",
+        "description":"Gin, dry vermouth",
+        "price":12
+    },
+    {
+        "category":"coctail",
+        "name":"LEMON DROP MARTINI",
+        "description":"Vodka, triple sec, lemon juice",
+        "price":12
+    },
+    {
+        "category":"coctail",
+        "name":"POMEGRANATE MARTINI",
+        "description":"Vodka,pomegranate liquor, lime juice",
+        "price":12
+    },
+    {
+        "category":"coctail",
+        "name":"COSMOPOLITAN",
+        "description":"Vodka, orange liquor, cranberry and lemon juices",
+        "price":12
+    },
+    {
+        "category":"coctail",
+        "name":"JAGERMEISTER",
+        "description":"Jagermeister, orange liquor, pomegranate syrup",
+        "price":13
+    },
+    {
+        "category":"coctail",
+        "name":"NEGRONI",
+        "description":"Gin, Campari, sweet vermouth",
+        "price":12
+    },
+    {
+        "category":"coctail",
+        "name":"MOJITO",
+        "description":"Bacardi, mint, soda water, lime juice",
+        "price":12
+    },
+
+
+
+    {
+        "category":"beer",
+        "name":"EFES (TURKISH BEER)",
+        "description":"",
+        "price":9
+    },
+    {
+        "category":"beer",
+        "name":"IPA",
+        "description":"",
+        "price":8
+    },
+    {
+        "category":"beer",
+        "name":"CORONA",
+        "description":"",
+        "price":8
+    },
+    {
+        "category":"beer",
+        "name":"STELLA",
+        "description":"",
+        "price":8
+    },
+    {
+        "category":"beer",
+        "name":"HEINEKEN",
+        "description":"",
+        "price":8
+    },
+    {
+        "category":"beer",
+        "name":"MICHELOB",
+        "description":"",
+        "price":8
+    },
+    {
+        "category":"beer",
+        "name":"YUENGLING",
+        "description":"",
+        "price":8
+    },
+    {
+        "category":"beer",
+        "name":"BLUE MOON",
+        "description":"",
+        "price":8
+    },
+    {
+        "category":"beer",
+        "name":"BUD LIGHT",
+        "description":"",
+        "price":7
+    },
+    {
+        "category":"beer",
+        "name":"MILLER LITE",
+        "description":"",
+        "price":7
+    },
+    {
+        "category":"beer",
+        "name":"NON-ALCOHOLIC BEER",
+        "description":"",
+        "price":7
+    }
+]

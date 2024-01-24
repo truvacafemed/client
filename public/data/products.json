@@ -1,0 +1,50 @@
+[
+    {
+        "category":"customers",
+        "name":"GRILL FILET MIGNON STEAK GF",
+        "description":"Grilled filet mignon with peas pureed sautéed broccoli, red pepper, mushroom and roasted baby potatoes with the demi-glace sauces.",
+        "prica":39.99
+    },
+    {
+        "category":"customers",
+        "name":"SHEPHERD CASSEROLE GF",
+        "description":"Lamb sauteed with garlic, onions, mushrooms, peppers, tomatoes and special herbs, Served with rice.",
+        "prica":25.99
+    },
+    {
+        "category":"customers",
+        "name":"LAHMACUN (TURKISH-STYLE PIZZA)",
+        "description":"Thin crust dough topped with ground lamb and beef, chopped garden vegetables. (df)",
+        "prica":17.99
+    },
+    {
+        "category":"customers",
+        "name":"DONER KEBAB",
+        "description":"Hand carved marinated sliced lamb and beef, grilled on a large vertical rotisserie. Served with low carb vegetables & rice pilaf. (gf-df)",
+        "prica":23.99
+    },
+    {
+        "category":"customers",
+        "name":"LAMB SHISH KEBAB",
+        "description":"Tender cubes of lamb marinated in our special sauce. Served with low carb vegetables & bulgur pilaf. (df)",
+        "prica":26.99
+    },
+    {
+        "category":"customers",
+        "name":"SULTAN'S FAVORITE GF",
+        "description":"Mashed smoked eggplant topped with marinated cube lamb and with fresh tomato sauce.",
+        "prica":25.99
+    },
+    {
+        "category":"customers",
+        "name":"CHICKEN SAUTÉ GF",
+        "description":"Chicken sautéed with tomatoes, onion, garlic, red, and green peppers. Served with rice pilaf.",
+        "prica":23.99
+    },
+    {
+        "category":"customers",
+        "name":"ADANA KEBAB",
+        "description":"Seasoned ground lamb flavored with red bell peppers. Served with low carb vegetables & bulgur pilaf. (df)",
+        "prica":23.99
+    }
+]
