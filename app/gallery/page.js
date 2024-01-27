@@ -11,21 +11,23 @@ export default function page() {
     ])
   return (
     <>
-    <div className="relative flex sm:h-[calc(100vh-50vh)] md:h-[calc(50vh-200px)] lg:h-[calc(60vh-200px)] flex-col justify-center items-center">
+    <div className="relative flex sm:h-[calc(100vh-60vh)] md:h-[calc(100vh-350px)] lg:h-[calc(100vh-350px)] flex-col justify-center items-center">
       <div className="ease-linear">
-              <Image src={`/img/N5o8uy.jpg`} className={`relative z-0 contrast-100 filter`} alt="..." fill />
+              <Image src={`/img/N5o8uy.jpg`} className={`relative z-0 contrast-100 brightness-75 filter`} alt="..." fill />
       </div>
       <div className='z-30 relative h-screen sm:mt-12 flex flex-col items-center justify-center'>
-          <h2 className=' text-slate-300 sm:text-2xl md:text-5xl text-5xl font-serif font-medium'>GALLERY</h2>
+          <h2 className=' text-slate-300 sm:text-2xl md:text-7xl font-serif font-medium'>GALLERY</h2>
       </div>
       </div>
 
-      <div className='py-24 md:grid md:grid-cols-4 lg:grid lg:grid-cols-4 container'>
+      <div className='bg-amber-50'>
+        <div className='py-24 md:grid md:grid-cols-4 lg:grid lg:grid-cols-4 container'>
         {
             imageCount.map(element => (
                  <img key={element} src={`/gallery-img/${element}.jpeg`} className=' w-96 p-2 h-auto rounded-lg' />
             ))
         }      
+        </div>
       </div>
     </>
   )

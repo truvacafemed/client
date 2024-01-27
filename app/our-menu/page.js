@@ -4,22 +4,20 @@ import Image from 'next/image'
 import menu from '@/public/data/our-menu.json'
 import bg from '@/public/img/gorsel-9.jpg'
 import bgdrink from '@/public/img/coffee_milk_tea_2.jpg'
+import bgdesert from '@/public/img/baklava.jpg'
 import coctailimg from '@/public/img/coctail-beer.jpeg'
 
 export default function page() {
   return (
     <>
-      <div className="relative flex sm:h-[calc(100vh-50vh)] md:h-[calc(100vh-200px)] lg:h-[calc(100vh-400px)] flex-col justify-center items-center">
+      <div className="relative flex sm:h-[calc(100vh-60vh)] md:h-[calc(100vh-350px)] lg:h-[calc(100vh-350px)] flex-col justify-center items-center">
         <div className="ease-linear">
                 <Image src={`/img/video-bckg.jpg`} className={`relative z-0 contrast-100 object-fill filter brightness-50 object-center`} alt="..." fill />
-        </div>
-        <div className='z-30 relative h-screen sm:mt-12 flex flex-col items-center justify-center'>
-            <h2 className=' text-slate-300 sm:text-2xl md:text-5xl text-5xl font-serif font-medium'>OUR MENU</h2>
         </div>
       </div>
 
 
-      <div className='flex flex-col py-12 sm:gap-y-16 md:gap-y-12 lg:gap-y-44'>
+      <div className='flex flex-col py-12 sm:gap-y-16 md:gap-y-12 bg-amber-50 lg:gap-y-44'>
 
         {/** BREAKFAST */}
         <div className='container'>
@@ -506,6 +504,18 @@ export default function page() {
                   ))
                 }
             </div>
+        </div>
+
+        {/** DESERT TITLE */}
+        <div className='text-center flex justify-center items-center sm:h-64 md:h-96 lg:h-96 max-w-full' 
+          style={{backgroundImage:`url(${bgdesert.src})`,
+          backgroundRepeat:'no-repeat',
+          backgroundAttachment:'fixed',
+          backgroundPosition:'center',
+          filter:'grayscale(40%)',
+          backgroundSize:'cover'
+        }}>
+              <h1 className='text-6xl font-extrabold text-white'>DESSERT</h1>
         </div>
 
 

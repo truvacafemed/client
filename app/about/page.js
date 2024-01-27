@@ -5,15 +5,16 @@ import Link from 'next/link'
 export default function About() {
   return (
     <>
-     <div className="relative flex sm:h-[calc(100vh-50vh)] md:h-[calc(100vh-200px)] lg:h-[calc(100vh-200px)] flex-col justify-center items-center">
+     <div className="relative flex sm:h-[calc(100vh-60vh)] md:h-[calc(100vh-350px)] lg:h-[calc(100vh-350px)] flex-col justify-center items-center">
       <div className="ease-linear">
               <Image src={`/img/about-us-header.jpeg`} className={`relative z-0 contrast-100 object-fill filter brightness-50 object-center`} alt="..." fill />
       </div>
       <div className='z-30 relative h-screen sm:mt-12 flex flex-col items-center justify-center'>
-          <h2 className=' text-slate-300 sm:text-2xl md:text-5xl text-5xl font-serif font-medium'>ABOUT US</h2>
+          <h2 className=' text-slate-300 sm:text-2xl md:text-7xl font-serif font-medium'>ABOUT US</h2>
       </div>
     
     </div>
+    <div className='bg-amber-50'>
     <div className='container flex flex-col text-center gap-5 justify-center py-24 items-center'>
         <h4 className='font-thin'>TASTY AND CRUNCHY</h4>
         <h2 className='font-serif text-5xl'>Our Story</h2>
@@ -60,6 +61,7 @@ export default function About() {
             Because ultimately, It’s you who bring joy to this kitchen
             </p>
           </div>
+      </div>
       </div>
     </>
     

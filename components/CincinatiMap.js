@@ -33,6 +33,6 @@ export default function CincinatiMap() {
       },[])
 
   return (
-    <div style={{ height:'600px' }} ref={mapRef} className='mt-12' />
+    <div style={{ height:'300px',width:'300px' }} ref={mapRef} className='mt-12' />
   )
 }

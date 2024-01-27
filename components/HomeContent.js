@@ -7,15 +7,15 @@ export default function HomeContent() {
     <div className='flex flex-col items-center justify-center bg-zinc-950 py-16 rounded-b-3xl'>
         <div className='container'>
         <div className='flex flex-col items-center justify-center gap-y-4 text-white'>
-            <h1 className='font-bold text-4xl'>NOW SERVING</h1>
-            <h1 className='font-semibold text-3xl'>ALCOHOL !</h1>
-            <p className='font-extralight sm:text-center'>
-                Ask you server a drink menu and don’t forget to try our delicious Turkish wines! We have more coming very soon!
+            <h1 className='font-bold text-4xl'>EXCITED NEWS !</h1>
+            <p className='font-bold sm:text-center'>
+            <span className='uppercase'>Truva Turkish Kitchen's Second Location is Coming Soon to Mason</span> <br/>
+            <span className='font-thin mt-6'>Get ready to experience authentic Turkish cuisine in Mason</span>
             </p>
         </div>
 
         <div className='flex flex-col md:py-24 sm:py-12 items-center justify-center gap-y-4 text-white mt-2'>
-            <h1 className=' font-thin text-2xl'>TASTY AND CHURCHY</h1>
+            <h1 className=' font-thin text-2xl'>TASTY AND CRUNCHY</h1>
             <h1 className='font-semibold text-4xl'>OUR STORY</h1>
             <p className=' font-extralight sm:text-center md:px-44'>
             We love seasons, and gathering around a table,
