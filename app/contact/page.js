@@ -29,6 +29,14 @@ export default function page() {
                 className='mt-8 bg-amber-600 hover:bg-amber-500 transition-all rounded-lg sm:px-3 sm:py-2 md:px-4 md:py-3 px-5 py-3 text-white font-normal'>
                 Reserve Your Table
             </Link>
+            <div className='flex flex-row gap-x-8 mt-12'>
+                <Link target='_blank' href={'https://www.facebook.com/truvaturkishkitchen?mibextid=rS40aB7S9Ucbxw6v'}>
+                    <Image src={'/img/icon/truva-facebook.png'} width={48} height={48} />
+                    </Link>
+                    <Link target='_blank' href={'https://www.instagram.com/truvaturkishkitchen?igsh=MXB3YnR1cWs3ZmJtdw%3D%3D&utm_source=qr'}>
+                    <Image src={'/img/icon/truva-instagram.png'} width={48} height={48} />
+                    </Link>
+            </div>
         </div>
 
         <div className='container flex md:flex-row lg:flex-row sm:flex-col justify-around mt-12'>
