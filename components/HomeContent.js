@@ -7,10 +7,10 @@ export default function HomeContent() {
     <div className='flex flex-col items-center justify-center bg-zinc-950 py-16 rounded-b-3xl'>
         <div className='container'>
         <div className='flex flex-col items-center justify-center gap-y-4 text-white'>
-            <h1 className='font-bold text-4xl'>EXCITED NEWS !</h1>
+            <h1 className='font-bold text-4xl'>EXCITING NEWS !</h1>
             <p className='font-bold sm:text-center'>
-            <span className='uppercase'>Truva Turkish Kitchen's Second Location is Coming Soon to Mason</span> <br/>
-            <span className='font-thin mt-6'>Get ready to experience authentic Turkish cuisine in Mason</span>
+            <span className='uppercase'>Truva Turkish Kitchen's Second Location is Coming Soon to Mason !</span> <br/>
+            <span className='font-thin mt-6'>Get ready to experience authentic Turkish cuisine in Mason.</span>
             </p>
         </div>
 

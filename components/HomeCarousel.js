@@ -24,7 +24,7 @@ export default function HomeCarousel() {
       <div className='z-30 relative h-screen sm:mt-12 flex flex-col items-center justify-center'>
           <h2 className=' text-slate-300 sm:text-2xl md:text-5xl text-5xl font-serif font-medium'>TRUVA</h2>
           <h1 className='text-slate-300 sm:text-3xl md:text-6xl text-7xl font-serif font-semibold'>TURKISH KITCHEN</h1>
-          <Link href='/our-menu' className='mt-8 bg-amber-500 hover:bg-amber-400 transition-all rounded-lg sm:px-3 sm:py-2 md:px-4 md:py-3 px-5 py-3 text-white font-bold'>VIEW OUR MENU</Link>
+          <Link href='/our-menu' className='mt-8 bg-amber-400 hover:bg-amber-400 transition-all rounded-lg sm:px-3 sm:py-2 md:px-4 md:py-3 px-5 py-3 text-white font-bold'>VIEW OUR MENU</Link>
       </div>
     
 </div>

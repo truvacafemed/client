@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "title":"Savoring History: The Culinary Symphony of Iskender Kebab – A Turkish Classic Crafted by Tradition",
+        "content":"Iskender Kebab, a mouthwatering Turkish delight, has a history as rich as its flavor. Originating in the mid-19th century in Bursa, Turkey, this culinary masterpiece was the brainchild of Iskender Efendi. The dish is an homage to the city's cultural heritage and is steeped in tradition. Iskender Efendi ingeniously combined the elements of the traditional döner kebab with a unique tomato-based sauce and a generous serving of melted butter, creating a delectable symphony of flavors. The original establishment, now known as Iskender Restaurant, continues to serve this iconic dish, preserving the authenticity and excellence that has made Iskender Kebab a beloved Turkish classic. The secret to Iskender Kebab's irresistible taste lies in its meticulous preparation. Thinly sliced lamb or beef from the rotating vertical spit is layered over pieces of Turkish pide bread. The dish is then generously drizzled with a rich tomato sauce and melted butter, creating a harmonious blend of savory and buttery goodness. Served with a side of yogurt, the Iskender Kebab experience is a culinary journey through time, capturing the essence of Turkish gastronomy and the innovative spirit of its creators.",
+        "img":"iskender-kebab.jpg"
+    },
+    {
+        "id":2,
+        "title":"Layers of Heritage: Exploring the Timeless Delight of Turkish Baklava",
+        "content":"Baklava, a del ectable and iconic Turkish dessert, boasts a rich history that spans centuries. Its origins can be traced back to the Ottoman Empire, where it evolved from a simple layered bread sweetened with honey and nuts. Over time, the recipe transformed into the more sophisticated and intricate dessert we know today. The delicate layers of phyllo dough, generously filled with chopped nuts, often pistachios or walnuts, are meticulously assembled and baked to golden perfection. Throughout history, baklava has become synonymous with celebrations and special occasions in Turkish culture. It has also spread its delicious influence across the Middle East and Mediterranean regions, with each culture adding its own unique twist to the classic recipe. The art.",
+        "img":"turkish-baklava.jpg"
+    },
+    {
+        "id":3,
+        "title":"From Nomadic Roots to Culinary Mastery: Unraveling the Timeless History of Turkish Kebap",
+        "content":"The history of Turkish kebap is deeply rooted in the cultural tapestry of the region, dating back centuries. Originating from the nomadic traditions of the Turkic people in Central Asia, the concept of cooking meat over an open flame on a skewer made its way to Anatolia with the migration of Turkic tribes. This method of preparing meat became a staple of Turkish cuisine, adapting and evolving over time. In the Ottoman period, the art of kebap-making reached new heights with the introduction of various styles and techniques. The skilled Ottoman chefs, known as Ustas, elevated kebap to a form of culinary art. Each region in Turkey developed its unique kebap variations, utilizing local spices, meats, and cooking styles. From Adana Kebap's spiced minced meat skewers to Döner Kebap's rotating meat on a vertical spit, the diversity of Turkish kebap reflects the rich history and cultural influences that have shaped this iconic culinary tradition. Today, Turkish kebap stands as a symbol of gastronomic heritage, celebrated not only in Turkey but also embraced worldwide for its delicious and diverse offerings",
+        "img":"turkish-kebab.jpg"
+    }
+]

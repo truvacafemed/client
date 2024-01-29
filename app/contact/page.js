@@ -22,8 +22,7 @@ export default function page() {
       <div className='bg-amber-50 py-24'>
 
         <div className='border-b pb-12 flex flex-col justify-center gap-y-3 items-center text-center sm:px-4'>
-            <h3 className='font-bold text-4xl'>Can't Find What You're Looking For?</h3>
-            <p className='font-thin text-2xl'>Don't freak out...</p>
+            <h3 className='font-bold text-4xl'>Where you can find us ...</h3>
             <h4 className='font-normal text-2xl'>For reservations, please click here:</h4>
             <Link href='https://www.opentable.com/restref/client/?restref=1265287&rid=1265287&datetime=2023-12-29T19%3A00&covers=1&searchdatetime=2023-12-29T19%3A00&partysize=1&corrid=24f03c18-b0ba-477c-96a6-7a8e4567172e' 
                 target='_blank'
@@ -71,7 +70,7 @@ export default function page() {
 
         <div className='flex flex-row sm:mb-16 flex-1 md:pr-24 lg:pr-24'>
             <div className='flex flex-col w-full'>
-                <h3 className='text-2xl font-serif sm:text-center sm:text-3xl'>CINCINNATI</h3>
+                <h3 className='text-2xl font-serif sm:text-center sm:text-3xl'>KENWOOD</h3>
                 <div className='flex flex-col sm:items-center'>
                     <div className='flex flex-row gap-x-3 pt-6'>
                         <Image src={'/img/icon/phoneico.png'} width={25} height={25} />    
