@@ -41,27 +41,27 @@ export default function Navbar() {
       items-center justify-between py-2 hidden transition-all w-full md:flex md:w-auto`} id="navbar-sticky">
         <ul className={`flex w-full flex-col items-center justify-center sm:gap-y-8 p-4 md:p-0 mt-4 text-white font-serif md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0`}>
       <li>
-        <Link href="/" onClick={()=> setMobile(false)} className={`block py-2 px-3 border-b border-amber-400 transition-all text-lg md:bg-transparent md:p-0`} aria-current="page">HOME</Link>
+        <Link href="/" onClick={()=> setMobile(false)} className={`block py-2 px-3 border-b border-amber-400 hover:text-amber-400 transition-all text-lg md:bg-transparent md:p-0`} aria-current="page">HOME</Link>
       </li>
       <li>
-        <Link href="/about" onClick={()=> setMobile(false)} className={`block py-2 px-3 border-b border-amber-400  transition-all text-lg md:bg-transparent md:p-0`}>ABOUT US</Link>
+        <Link href="/about" onClick={()=> setMobile(false)} className={`block py-2 px-3 border-b border-amber-400 hover:text-amber-400  transition-all text-lg md:bg-transparent md:p-0`}>ABOUT US</Link>
       </li>
       <li>
-        <Link href="/our-menu" onClick={()=> setMobile(false)} className={`block py-2 px-3 border-b border-amber-400 transition-all text-lg md:bg-transparent md:p-0`}>OUR MENU</Link>
+        <Link href="/our-menu" onClick={()=> setMobile(false)} className={`block py-2 px-3 border-b border-amber-400 hover:text-amber-400  transition-all text-lg md:bg-transparent md:p-0`}>OUR MENU</Link>
       </li>
       <li>
-        <Link href="/gallery" onClick={()=> setMobile(false)} className={`block py-2 px-3 border-b border-amber-400 transition-all text-lg md:bg-transparent md:p-0`}>GALLERY</Link>
+        <Link href="/gallery" onClick={()=> setMobile(false)} className={`block py-2 px-3 border-b border-amber-400 hover:text-amber-400  transition-all text-lg md:bg-transparent md:p-0`}>GALLERY</Link>
       </li>
       <li>
-        <Link href="/blog" onClick={()=> setMobile(false)} className={`block py-2 px-3 border-b border-amber-400 transition-all text-lg md:bg-transparent md:p-0`}>BLOG</Link>
+        <Link href="/blog" onClick={()=> setMobile(false)} className={`block py-2 px-3 border-b border-amber-400 hover:text-amber-400  transition-all text-lg md:bg-transparent md:p-0`}>BLOG</Link>
       </li>
       <li>
-        <Link href="/contact" onClick={()=> setMobile(false)} className={`block py-2 px-3 border-b border-amber-400 transition-all text-lg md:bg-transparent md:p-0`}>CONTACT</Link>
+        <Link href="/contact" onClick={()=> setMobile(false)} className={`block py-2 px-3 border-b border-amber-400 hover:text-amber-400  transition-all text-lg md:bg-transparent md:p-0`}>CONTACT</Link>
       </li>
       <li>
         <Link href="https://www.opentable.com/restref/client/?restref=1265287&rid=1265287&datetime=2023-12-29T19%3A00&covers=1&searchdatetime=2023-12-29T19%3A00&partysize=1&corrid=24f03c18-b0ba-477c-96a6-7a8e4567172e" 
           target='_blank' 
-          className={`block py-2 px-3 text-lg font-bold bg-amber-400 rounded-xl text-white hover:bg-amber-400 transition-all`}>
+          className={`block py-2 px-3 text-lg font-bold bg-amber-400 rounded-xl text-white hover:bg-amber-500 transition-all`}>
           BOOK A TABLE
         </Link>
       </li>
