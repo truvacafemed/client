@@ -28,10 +28,10 @@ export default function HomeContent() {
         </div>
         <div className='flex justify-between sm:gap-y-6 items-center md:flex-row sm:flex-col'>
             <div className='col-auto px-4'>
-            <img src='/img/homecontent1.jpeg' className='h-auto max-w-full rounded-xl' />
+            <img src='/img/homecontent1.jpg' className=' h-[500px] w-[600px] rounded-xl' />
             </div>
             <div className='col-auto px-4'>
-            <img src='/img/homecontent2.jpeg' className='h-auto max-w-full rounded-xl' />
+            <img src='/img/homecontent2.jpg' className='h-[500px] w-[600px] rounded-xl' />
             </div>
         </div>
 
@@ -49,7 +49,7 @@ export default function HomeContent() {
               </div>
             </div>
             <div className='p-4 col-auto'>
-                <img src='/img/Pepperoni-Flatbread.jpg' className='h-auto max-w-full rounded-xl' />
+                <img src='/img/homecontent3.jpg' className='h-[600px] w-[1500px] rounded-xl' />
             </div>
         </div>
         </div>
