@@ -6,6 +6,7 @@ import React, { useEffect, useState } from 'react'
 export default function Navbar() {
 
   const [mobile,setMobile] = useState(false);
+  const [openDrop,setOpenDrop] = useState(false);
   const [colorChange, setColorchange] = useState(false);
   const changeNavbarColor = () => {
     if (window.scrollY >= 80) {
@@ -59,11 +60,22 @@ export default function Navbar() {
         <Link href="/contact" onClick={()=> setMobile(false)} className={`block py-2 px-3 border-b border-amber-400 hover:text-amber-400  transition-all text-lg md:bg-transparent md:p-0`}>CONTACT</Link>
       </li>
       <li>
-        <Link href="https://www.opentable.com/restref/client/?restref=1265287&rid=1265287&datetime=2023-12-29T19%3A00&covers=1&searchdatetime=2023-12-29T19%3A00&partysize=1&corrid=24f03c18-b0ba-477c-96a6-7a8e4567172e" 
-          target='_blank' 
-          className={`block py-2 px-3 text-lg font-bold bg-amber-400 rounded-xl text-white hover:bg-amber-500 transition-all`}>
-          BOOK A TABLE
-        </Link>
+      <button onClick={()=> setOpenDrop(!openDrop)} id="dropdownDefaultButton" data-dropdown-toggle="dropdown" 
+      className="flex flex-row items-center py-2 px-3 text-lg font-bold bg-amber-400 rounded-xl text-white hover:bg-amber-500 transition-all" type="button">BOOK A TABLE 
+      <svg class="w-2.5 h-2.5 ms-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
+        </svg>
+        </button>
+        <div id="dropdown" className={`z-10 ${openDrop ? 'absolute':'hidden'} bg-amber-400 rounded-xl shadow w-48 mt-2`}>
+            <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton">
+              <li>
+                <Link target='_blank' href="https://www.opentable.com/restref/client/?restref=1265287&rid=1265287&datetime=2023-12-29T19%3A00&covers=1&searchdatetime=2023-12-29T19%3A00&partysize=1&corrid=24f03c18-b0ba-477c-96a6-7a8e4567172e" class="block px-4 font-bold py-2 bg-amber-400 text-white hover:bg-amber-500">KENWOOD</Link>
+              </li>
+              <li>
+                <Link target='_blank' href="https://www.opentable.com/restref/client/?restref=1358680&lang=en-US&ot_source=Restaurant%20website&corrid=6da60e1d-c9db-450d-94ae-1dae87ab9c9e" class="block px-4 py-2 font-bold bg-amber-400 text-white hover:bg-amber-500">MASON</Link>
+              </li>
+            </ul>
+        </div>
       </li>
     </ul>
   </div>

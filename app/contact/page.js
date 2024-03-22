@@ -43,41 +43,6 @@ export default function page() {
 
         <div className='flex flex-row sm:mb-16 flex-1 md:pr-24 lg:pr-24'>
             <div className='flex flex-col w-full'>
-                <div className='flex flex-col sm:items-center'>
-                    <div className='flex flex-row gap-x-3 pt-1'>
-                        <span>Monday:</span>  
-                        <span className='font-normal'>10:30 AM - 10 PM</span>
-                    </div>
-                    <div className='flex flex-row gap-x-3 pt-1'>
-                        <span>Tuesday:</span>  
-                        <span className='font-normal'>10:30 AM - 10 PM</span>
-                    </div>
-                    <div className='flex flex-row gap-x-3 pt-1'>
-                        <span>Wednesday:</span>  
-                        <span className='font-normal'>10:30 AM - 10 PM</span>
-                    </div>
-                    <div className='flex flex-row gap-x-3 pt-1'>
-                        <span>Thursday:</span>  
-                        <span className='font-normal'>10:30 AM - 10 PM</span>
-                    </div>
-                    <div className='flex flex-row gap-x-3 pt-1'>
-                        <span>Friday:</span>  
-                        <span className='font-normal'>10:30 AM - 10 PM</span>
-                    </div>
-                    <div className='flex flex-row gap-x-3 pt-1'>
-                        <span>Saturday:</span>  
-                        <span className='font-normal'>9 AM - 10:30 PM</span>
-                    </div>
-                    <div className='flex flex-row gap-x-3 pt-1'>
-                        <span>Sunday:</span>  
-                        <span className='font-normal'>9 AM - 10 PM</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div className='flex flex-row sm:mb-16 flex-1 md:pr-24 lg:pr-24'>
-            <div className='flex flex-col w-full'>
                 <h3 className='text-2xl font-serif sm:text-center sm:text-3xl'>KENWOOD</h3>
                 <div className='flex flex-col sm:items-center'>
                     <div className='flex flex-row gap-x-3 pt-6'>
@@ -96,6 +61,38 @@ export default function page() {
                         <Image src={'/img/icon/followico.png'} width={25} height={25} /> 
                         <span className='font-normal'>Cincinnati, Oh 45236</span>
                     </div>
+                    <div className='flex flex-col w-full mt-8'>
+                    <div className='flex flex-col sm:items-center'>
+                        <div className='flex flex-row gap-x-3 pt-1'>
+                            <span>Monday:</span>  
+                            <span className='font-normal'>10:30 AM - 10 PM</span>
+                        </div>
+                        <div className='flex flex-row gap-x-3 pt-1'>
+                            <span>Tuesday:</span>  
+                            <span className='font-normal'>10:30 AM - 10 PM</span>
+                        </div>
+                        <div className='flex flex-row gap-x-3 pt-1'>
+                            <span>Wednesday:</span>  
+                            <span className='font-normal'>10:30 AM - 10 PM</span>
+                        </div>
+                        <div className='flex flex-row gap-x-3 pt-1'>
+                            <span>Thursday:</span>  
+                            <span className='font-normal'>10:30 AM - 10 PM</span>
+                        </div>
+                        <div className='flex flex-row gap-x-3 pt-1'>
+                            <span>Friday:</span>  
+                            <span className='font-normal'>10:30 AM - 10 PM</span>
+                        </div>
+                        <div className='flex flex-row gap-x-3 pt-1'>
+                            <span>Saturday:</span>  
+                            <span className='font-normal'>9 AM - 10:30 PM</span>
+                        </div>
+                        <div className='flex flex-row gap-x-3 pt-1'>
+                            <span>Sunday:</span>  
+                            <span className='font-normal'>9 AM - 10 PM</span>
+                        </div>
+                </div>
+            </div>
                     {/* MAP */}
                 <CincinatiMap />
                 </div>
@@ -123,6 +120,40 @@ export default function page() {
                     <Image src={'/img/icon/followico.png'} width={25} height={25} /> 
                         <span className='font-normal'>Mason, Oh 45040</span>
                     </div>
+
+                    <div className='flex flex-col w-full mt-8'>
+                    <div className='flex flex-col sm:items-center'>
+                        <div className='flex flex-row gap-x-3 pt-1'>
+                            <span>Monday:</span>  
+                            <span className='font-normal'>11 AM - 10 PM</span>
+                        </div>
+                        <div className='flex flex-row gap-x-3 pt-1'>
+                            <span>Tuesday:</span>  
+                            <span className='font-normal'>11 AM - 10 PM</span>
+                        </div>
+                        <div className='flex flex-row gap-x-3 pt-1'>
+                            <span>Wednesday:</span>  
+                            <span className='font-normal'>11 AM - 10 PM</span>
+                        </div>
+                        <div className='flex flex-row gap-x-3 pt-1'>
+                            <span>Thursday:</span>  
+                            <span className='font-normal'>11 AM - 10 PM</span>
+                        </div>
+                        <div className='flex flex-row gap-x-3 pt-1'>
+                            <span>Friday:</span>  
+                            <span className='font-normal'>11 AM - 10:30 PM</span>
+                        </div>
+                        <div className='flex flex-row gap-x-3 pt-1'>
+                            <span>Saturday:</span>  
+                            <span className='font-normal'>11 AM - 10:30 PM</span>
+                        </div>
+                        <div className='flex flex-row gap-x-3 pt-1'>
+                            <span>Sunday:</span>  
+                            <span className='font-normal'>11 AM - 10 PM</span>
+                        </div>
+                </div>
+            </div>
+
                     <MasonMap />
                 </div>
 
