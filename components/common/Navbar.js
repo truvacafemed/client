@@ -7,6 +7,7 @@ export default function Navbar() {
 
   const [mobile,setMobile] = useState(false);
   const [openDrop,setOpenDrop] = useState(false);
+  const [openBreakfastInfo,setOpenBreakfastInfo] = useState(false)
   const [colorChange, setColorchange] = useState(false);
   const changeNavbarColor = () => {
     if (window.scrollY >= 80) {

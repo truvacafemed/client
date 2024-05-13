@@ -23,6 +23,7 @@ export default function page() {
         <div className='container'>
             <div className='flex flex-col text-center justify-center gap-y-3 mt-24'>
               <h1 className='text-5xl font-serif' style={{fontWeight:'bold'}}>BREAKFAST</h1>
+              <h1 className='text-2xl text-red-300'>* Breakfast serving is only at the Kenwood location *</h1>
               <h5 className='text-md text-gray-400 font-bold'>EVERY DAY 9:00AM - 2:00PM</h5>
               <h6 className=' font-extralight text-gray-600'>Our menu from Turkish selection</h6>
             </div>
