@@ -206,9 +206,11 @@ export default function page() {
               <span>TASTY</span>
               <h1 className='text-5xl font-serif' style={{fontWeight:'bold'}}>SALADS</h1>
               <span className='text-extralight text-md text-gray-400'>SALAD ADD-ONS</span>
-              <span className='text-thin text-sm text-gray-400'>DONER KEBAB, ADANA KEBAB, CHICKEN KEBAB, CHICKEN ADANA KEBAB $9.99</span>
-              <span className='text-thin text-sm text-gray-400'>SHISH KEBAB $11.99</span>
-              <span className='text-thin text-sm text-gray-400'>GRILLED SHRIMP $11.99</span>
+              <span className='text-thin text-sm text-gray-400'>DONER KEBAB - ADANA KEBAB 12.99, CHICKEN KEBAB - CHICKEN ADANA KEBAB $10.99</span>
+              <span className='text-thin text-sm text-gray-400'>LAMB SHISH KEBAB $14.99</span>
+              <span className='text-thin text-sm text-gray-400'>GRILLED SHRIMP $12.99</span>
+              <span className='text-thin text-sm text-gray-400'>GRILL SALMON $14.99</span>
+              <span className='text-thin text-sm text-gray-400'>FALAFEL $10.99</span>
             </div>
 
             <div className='sm:flex sm:flex-col md:grid md:grid-cols-2 lg:grid lg:grid-cols-2'>
