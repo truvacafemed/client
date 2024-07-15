@@ -77,12 +77,6 @@
     },
     {
         "category":"bakery",
-        "name":"ACMA",
-        "description":"Soft Turkish buns. (v)",
-        "price":3.99
-    },
-    {
-        "category":"bakery",
         "name":"POGACA W/ CHEESE",
         "description":"Pastry with cheese filling. (v)",
         "price":3.99
@@ -91,18 +85,6 @@
         "category":"bakery",
         "name":"POGACA W/ OLIVES",
         "description":"Pastry with pureed olives filling. (v)",
-        "price":3.99
-    },
-    {
-        "category":"bakery",
-        "name":"DILL PASTRY",
-        "description":"Pastry with dill. (v)",
-        "price":3.99
-    },
-    {
-        "category":"bakery",
-        "name":"TAHINI ROLL",
-        "description":"Crispy dough wrapped in a roll filled with tahini. (v)",
         "price":3.99
     },
     {
