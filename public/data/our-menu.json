@@ -462,21 +462,11 @@
 
     
     {
-        "category":"chefs-specials",
+        "category":"seafood",
         "name":"SHRIMP CASSEROLE GF",
         "description":"Sautéed jumbo shrimp baked in a vegetable sauce, topped with mozzarella cheese. Served with rice pilaf. (gf)",
         "price":26.99
     },
-
-    
-    {
-        "category":"seafood",
-        "name":"GRILLED SWORDFISH STEAK",
-        "description":"Char-grilled swordfish marinated in our chef's unique seasonings. Served with vegetables, salad & rice pilaf. (gf)",
-        "price":26.99
-    },
-
-
     {
         "category":"seafood",
         "name":"GRILLED WHOLE BRANZINO GF",
@@ -503,40 +493,11 @@
     },
     {
         "category":"seafood",
-        "name":"SHRIMP CASSEROLE GF",
-        "description":"Sautéed jumbo shrimp baked in a vegetable sauce, topped with mozzarella cheese. Served with rice pilaf. (gf)",
-        "price":26.99
-    },
-    {
-        "category":"seafood",
-        "name":"GRILLED SWORDFISH STEAK",
+        "name":"GRILLED SWORDFISH KEBAB",
         "description":"Char-grilled swordfish marinated in our chef's unique seasonings. Served with vegetables, salad & rice pilaf. (gf)",
-        "price":26.99
+        "price":28.99
     },
-    {
-        "category":"seafood",
-        "name":"GRILLED WHOLE BRANZINO GF",
-        "description":"Branzino (Mediterranean Seabass) grilled butterfly open flame. Served with low carb vegetables & mashed potatoes. (gf-df)",
-        "price":34.99
-    },
-    {
-        "category":"seafood",
-        "name":"GRILLED FILET OF SALMON GF",
-        "description":"Char-grilled salmon with spinach sauteed. Served with rice pilaf. (gf-df)",
-        "price":25.99
-    },
-    {
-        "category":"seafood",
-        "name":"GRILLED SHRIMP GF",
-        "description":"Char-grilled jumbo shrimp with marinated in our special sauce. Served with low carb vegetables & rice pilaf. (gf-df)",
-        "price":25.99
-    },
-    {
-        "category":"seafood",
-        "name":"SALMON IN GRAPE LEAVES GF",
-        "description":"Char-grilled chunks of marinated salmon wrapped in grape leaves and vegetable sauce. Served with rice pilaf. (gf-df)",
-        "price":26.99
-    },
+   
 
 
 
