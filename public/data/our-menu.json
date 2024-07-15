@@ -424,6 +424,12 @@
     },
     {
         "category":"chefs-specials",
+        "name":"COKERTME KEBAB",
+        "description":"Seasoned ground meat with fried potatoes, garlic yogurt and served with our home-made tomato souce. (gf)",
+        "price":25.99
+    },
+    {
+        "category":"chefs-specials",
         "name":"CHICKEN DELIGHT",
         "description":"Mashed smoked eggplant topped with marinated cubed chicken and served with our home-made tomato souce. (gf)",
         "price":24.99
@@ -461,8 +467,10 @@
         "description":"Sautéed jumbo shrimp baked in a vegetable sauce, topped with mozzarella cheese. Served with rice pilaf. (gf)",
         "price":26.99
     },
+
+    
     {
-        "category":"chefs-specials",
+        "category":"seafood",
         "name":"GRILLED SWORDFISH STEAK",
         "description":"Char-grilled swordfish marinated in our chef's unique seasonings. Served with vegetables, salad & rice pilaf. (gf)",
         "price":26.99
@@ -536,19 +544,19 @@
         "category":"steaks",
         "name":"FILET MIGNON STEAK",
         "description":"Grilled Filet Mignon (8 oz.) with low carb vegetables, mashed potato with the demi-glace sauces. (gf-df)",
-        "price":39.99
+        "price":38.99
     },
     {
         "category":"steaks",
         "name":"RIBEYE STEAK",
         "description":"Grilled Ribeye steak (14 oz.) Served with low carb vegetables & mashed potatoes. (gf)",
-        "price":42.99
+        "price":39.99
     },
     {
         "category":"steaks",
         "name":"LAMB CHOPS",
         "description":"Delicately marinated and baby lamb chops. Served with low carb vegetables & mashed potatoes. (gf)",
-        "price":42.99
+        "price":38.99
     },
 
 
