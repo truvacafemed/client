@@ -167,13 +167,13 @@
         "category":"soups",
         "name":"LENTIL SOUP",
         "description":"Red lentils, onions, carrots, potatoes. (gf-df-v)",
-        "price":8.99
+        "price":7.99
     },
     {
         "category":"soups",
         "name":"CHICKEN SOUP",
         "description":"A creamy soup with diced chicken, dill, carrots and mushrooms. (gf)",
-        "price":8.99
+        "price":7.99
     },
 
 
@@ -213,7 +213,7 @@
     {
         "category":"cold-starters",
         "name":"HUMMUS",
-        "description":"Chickpeas spread with tahini, lemon, olive oil, pine seeds. (gf-v-n)",
+        "description":"Chickpea spread with tahini, garlic, lemon juice and olive oil.",
         "price":9.99
     },
     {
@@ -231,20 +231,14 @@
     {
         "category":"cold-starters",
         "name":"SPICY EZME",
-        "description":"Finely chopped tomatoes, hot peppers, onions and walnuts mixed in olive oil and herbs. (gf-df-v-n)",
+        "description":"Finely chopped tomatoes, green peppers, red peppers, red onions and walnuts mixed in olive oil and herbs. (gf-df-v-n)",
         "price":9.99
     },
     {
         "category":"cold-starters",
-        "name":"CARROT TARATOR",
-        "description":"Thickened home made yogurt, carrot, garlic, dill and walnuts. (gf-v-n)",
+        "name":"CACIK TARATOR",
+        "description":"Thickened home made yogurt with dill, mint and garlic. (gf-v-n)",
         "price":9.99
-    },
-    {
-        "category":"cold-starters",
-        "name":"PIYAZ (WHITE BEAN SALAD)",
-        "description":"White beans with parsley, tomatoes, red and green peppers, red onions and dressed with olive oil and lemon juice.(gf-df-v)",
-        "price":12.99
     },
     {
         "category":"cold-starters",
@@ -279,13 +273,13 @@
     {
         "category":"cold-starters",
         "name":"APPETIZER SAMPLER (FOR 2 PEOPLE)",
-        "description":"Hummus, Babaganoush, Eggplant in Sauce, Labne, Tabbouleh, Ezme, Stuffed Grape",
+        "description":"Hummus, Babaganoush, Eggplant in Sauce, Labneh, Tabbouleh, Spicy Ezme, Stuffed Grape, Pinto Beans",
         "price":20.99
     },
     {
         "category":"cold-starters",
         "name":"APPETIZER SAMPLER (FOR 4 PEOPLE)",
-        "description":"Hummus, Babaganoush, Eggplant in Sauce, Labne, Tabbouleh, Ezme, Stuffed Grape Leaves",
+        "description":"Hummus, Babaganoush, Eggplant in Sauce, Labneh, Tabbouleh, Spicy Ezme, Stuffed Grape Leaves, Pinto Beans",
         "price":30.99
     },
 
@@ -414,11 +408,11 @@
         "category":"chefs-specials",
         "name":"OKRA STEW",
         "description":"Baby okra baked with vegetables and served with rice pilaf. (gf-df-v)",
-        "price":20.99
+        "price":19.99
     },
     {
         "category":"chefs-specials",
-        "name":"FALAFEL",
+        "name":"FALAFEL DINNER",
         "description":"Fried chickpeas and vegetables served with shepherd salad and hummus.",
         "price":19.99
     },
@@ -430,9 +424,9 @@
     },
     {
         "category":"chefs-specials",
-        "name":"STUFFED CABBEGE ROLLS",
-        "description":"Cabbage leaves stuffed with rice, ground lamb and beef, mixed with herbs and house-made tomato sauce. (gf-df)",
-        "price":23.99
+        "name":"CHICKEN DELIGHT",
+        "description":"Mashed smoked eggplant topped with marinated cubed chicken and served with our home-made tomato souce. (gf)",
+        "price":24.99
     },
     {
         "category":"chefs-specials",
@@ -444,7 +438,7 @@
         "category":"chefs-specials",
         "name":"SULTAN'S FAVORITE GF",
         "description":"Mashed smoked eggplant topped with marinated cube lamb and with our house-made tomato sauce. (gf)",
-        "price":26.99
+        "price":25.99
     },
     {
         "category":"chefs-specials",
