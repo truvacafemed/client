@@ -289,7 +289,7 @@
         "category":"hot-mezzes",
         "name":"FRIED CALAMARI",
         "description":"Fried rings of baby calamari lightly breaded with flour. Served with our special tartar sauce. (df)",
-        "price":15.99
+        "price":14.99
     },
     {
         "category":"hot-mezzes",
@@ -299,7 +299,7 @@
     },
     {
         "category":"hot-mezzes",
-        "name":"FALAFEL",
+        "name":"FALAFEL APPETIZER",
         "description":"Chickpeas-vegetable fritters with tahini sauce. (v-n)",
         "price":10.99
     },
@@ -307,7 +307,7 @@
         "category":"hot-mezzes",
         "name":"PAN FRIED VEAL LIVER",
         "description":"Cubes of tender calf liver sauteed with assorted herbs and spices. (df)",
-        "price":15.99
+        "price":14.99
     },
     {
         "category":"hot-mezzes",
@@ -540,6 +540,13 @@
         "description":"Meat sauce with ground meat, tomato sauce and parmesan.",
         "price":20.99
     },
+    {
+        "category":"pasta",
+        "name":"MANTI (TURKISH RAVIOLI",
+        "description":"Tiny dumplings filled with ground beef, topped with garlicky yogurt and butter sauce.",
+        "price":22.99
+    },
+
 
 
     {
@@ -763,12 +770,6 @@
     },
     {
         "category":"drinks",
-        "name":"PERRIER",
-        "description":"",
-        "price":3.99
-    },
-    {
-        "category":"drinks",
         "name":"FRESH ORANGE JUICES",
         "description":"",
         "price":4.99
@@ -870,7 +871,7 @@
         "category":"sides",
         "name":"BREAD EXTRA",
         "description":"",
-        "price":4.99
+        "price":3.99
     },
     {
         "category":"sides",
