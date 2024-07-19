@@ -381,7 +381,7 @@
         "category":"kebabs",
         "name":"CHICKEN THIGHS",
         "description":"Chicken marinated in our special sauce. Served with low carb vegetables & bulgur pilaf. (df)",
-        "price":24.99
+        "price":23.99
     },
     {
         "category":"kebabs",
@@ -393,7 +393,13 @@
         "category":"kebabs",
         "name":"BEEF TENDERLOIN KEBAB",
         "description":"Tender cubes of beef marinated in our chef's unique seasonings. Served with vegetables & rice pilaf",
-        "price":32.99
+        "price":29.99
+    },
+    {
+        "category":"kebabs",
+        "name":"SPICY BEYTI KEBAB",
+        "description":"Seasoned ground lamb and beef lightly seasoned with spices. Served with vegetables & rice pilaf",
+        "price":25.99
     },
 
 
