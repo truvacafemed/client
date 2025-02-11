@@ -23,9 +23,8 @@ export default function page() {
         <div className='container'>
             <div className='flex flex-col text-center justify-center gap-y-3 mt-24'>
               <h1 className='text-5xl font-serif' style={{fontWeight:'bold'}}>BREAKFAST</h1>
-              <h1 className='text-2xl text-red-300'>* Breakfast serving is only at the Kenwood location *</h1>
-              <h5 className='text-md text-gray-400 font-bold'>MON-FRI 10:30AM - 2:00PM</h5>
-              <h5 className='text-md text-gray-400 font-bold'>SAT-SUN 9:00AM - 2:00PM</h5>
+              <h1 className='text-2xl text-red-300'>*Our breakfast service is currently unavailable, but it will soon be launched at our Mason location with a wide variety of offerings.* </h1>
+              <h5 className='text-md text-gray-400 font-bold'>EVERY DAY 9:00AM - 2:00PM</h5>
               <h6 className=' font-extralight text-gray-600'>Our menu from Turkish selection</h6>
             </div>
 
@@ -206,11 +205,9 @@ export default function page() {
               <span>TASTY</span>
               <h1 className='text-5xl font-serif' style={{fontWeight:'bold'}}>SALADS</h1>
               <span className='text-extralight text-md text-gray-400'>SALAD ADD-ONS</span>
-              <span className='text-thin text-sm text-gray-400'>DONER KEBAB - ADANA KEBAB 12.99, CHICKEN KEBAB - CHICKEN ADANA KEBAB $10.99</span>
-              <span className='text-thin text-sm text-gray-400'>LAMB SHISH KEBAB $14.99</span>
-              <span className='text-thin text-sm text-gray-400'>GRILLED SHRIMP $12.99</span>
-              <span className='text-thin text-sm text-gray-400'>GRILL SALMON $14.99</span>
-              <span className='text-thin text-sm text-gray-400'>FALAFEL $10.99</span>
+              <span className='text-thin text-sm text-gray-400'>DONER KEBAB, ADANA KEBAB, CHICKEN KEBAB, CHICKEN ADANA KEBAB $9.99</span>
+              <span className='text-thin text-sm text-gray-400'>SHISH KEBAB $11.99</span>
+              <span className='text-thin text-sm text-gray-400'>GRILLED SHRIMP $11.99</span>
             </div>
 
             <div className='sm:flex sm:flex-col md:grid md:grid-cols-2 lg:grid lg:grid-cols-2'>
