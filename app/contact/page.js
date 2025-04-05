@@ -65,31 +65,31 @@ export default function page() {
                     <div className='flex flex-col sm:items-center'>
                         <div className='flex flex-row gap-x-3 pt-1'>
                             <span>Monday:</span>  
-                            <span className='font-normal'>10:30 AM - 10 PM</span>
+                            <span className='font-normal'>11 AM - 10 PM</span>
                         </div>
                         <div className='flex flex-row gap-x-3 pt-1'>
                             <span>Tuesday:</span>  
-                            <span className='font-normal'>10:30 AM - 10 PM</span>
+                            <span className='font-normal'>11 AM - 10 PM</span>
                         </div>
                         <div className='flex flex-row gap-x-3 pt-1'>
                             <span>Wednesday:</span>  
-                            <span className='font-normal'>10:30 AM - 10 PM</span>
+                            <span className='font-normal'>11 AM - 10 PM</span>
                         </div>
                         <div className='flex flex-row gap-x-3 pt-1'>
                             <span>Thursday:</span>  
-                            <span className='font-normal'>10:30 AM - 10 PM</span>
+                            <span className='font-normal'>11 AM - 10 PM</span>
                         </div>
                         <div className='flex flex-row gap-x-3 pt-1'>
                             <span>Friday:</span>  
-                            <span className='font-normal'>10:30 AM - 10 PM</span>
+                            <span className='font-normal'>11 AM - 10:30 PM</span>
                         </div>
                         <div className='flex flex-row gap-x-3 pt-1'>
                             <span>Saturday:</span>  
-                            <span className='font-normal'>10 AM - 10:30 PM</span>
+                            <span className='font-normal'>11 AM - 10:30 PM</span>
                         </div>
                         <div className='flex flex-row gap-x-3 pt-1'>
                             <span>Sunday:</span>  
-                            <span className='font-normal'>10 AM - 10 PM</span>
+                            <span className='font-normal'>11 AM - 10 PM</span>
                         </div>
                 </div>
             </div>
