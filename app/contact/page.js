@@ -87,7 +87,7 @@ export default function page() {
                             <span>Saturday:</span>  
                             <span className='font-normal'>11 AM - 10:30 PM</span>
                         </div>
-                        <div className='flex flex-row gap-x-3 pt-1'>
+                        <div className='flex flex-row gap-x-3 pt-1 mb-4'>
                             <span>Sunday:</span>  
                             <span className='font-normal'>11 AM - 10 PM</span>
                         </div>
@@ -147,7 +147,7 @@ export default function page() {
                             <span>Saturday:</span>  
                             <span className='font-normal'>11 AM - 10:30 PM</span>
                         </div>
-                        <div className='flex flex-row gap-x-3 pt-1'>
+                        <div className='flex flex-row gap-x-3 pt-1 mb-4'>
                             <span>Sunday:</span>  
                             <span className='font-normal'>11 AM - 10 PM</span>
                         </div>

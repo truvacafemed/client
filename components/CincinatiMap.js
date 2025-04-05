@@ -3,36 +3,10 @@ import React, { useEffect } from 'react'
 import { Loader } from '@googlemaps/js-api-loader'
 
 export default function CincinatiMap() {
-
-    const mapRef = React.useRef(null);
-
-    useEffect(()=> {
-        const initMap = async () => {
-          const loader = new Loader({
-            apiKey: "AIzaSyCqfOcJuT-faeZUpWwQGcie_ahh50M-eIE",
-            version: 'weekly',
-          });
-        
-          const google = await loader.load();
-        
-          const position = {
-            lat: 39.20197559851187,
-            lng: -84.37125224304803
-          };
-        
-          const mapOptions = {
-            center: position,
-            zoom: 17,
-            mapId: 'MY_NEXTJS_MAPID'
-          };
-        
-          const map = new google.maps.Map(mapRef.current, mapOptions);
-        };
-        
-        initMap();
-      },[])
-
   return (
-    <div style={{ height:'300px',width:'300px' }} ref={mapRef} className='mt-12' />
+      <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3091.8058870297746!2d-84.37383762289241!3d39.20185927166077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884053a10cae0229%3A0xbb21b4b0a545b037!2sTruva%20Turkish%20Kitchen%20%7C%20Kenwood!5e0!3m2!1str!2str!4v1743866195863!5m2!1str!2str"
+          width="300" height="300" style={{border: 0}} allowFullScreen="" loading="lazy"
+          referrerPolicy="no-referrer-when-downgrade"></iframe>
   )
 }
