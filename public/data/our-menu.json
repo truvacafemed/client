@@ -274,13 +274,13 @@
         "category":"cold-starters",
         "name":"APPETIZER SAMPLER (FOR 2 PEOPLE)",
         "description":"Hummus, Babaganoush, Eggplant in Sauce, Labneh, Tabbouleh, Spicy Ezme, Stuffed Grape, Pinto Beans",
-        "price":20.99
+        "price":22.99
     },
     {
         "category":"cold-starters",
         "name":"APPETIZER SAMPLER (FOR 4 PEOPLE)",
         "description":"Hummus, Babaganoush, Eggplant in Sauce, Labneh, Tabbouleh, Spicy Ezme, Stuffed Grape Leaves, Pinto Beans",
-        "price":30.99
+        "price":32.99
     },
 
 
@@ -307,7 +307,7 @@
         "category":"hot-mezzes",
         "name":"PAN FRIED VEAL LIVER",
         "description":"Cubes of tender calf liver sauteed with assorted herbs and spices. (df)",
-        "price":14.99
+        "price":16.99
     },
     {
         "category":"hot-mezzes",
@@ -321,15 +321,7 @@
         "description":"Flaky pastry with cheese and spinach from the oven. (v)",
         "price":12.99
     },
-    {
-        "category":"hot-mezzes",
-        "name":"MEAT PIE",
-        "description":"Flaky pastry with cheese and spinach from the oven. (v)",
-        "price":12.99
-    },
-
-
-    {
+   {
         "category":"kebabs",
         "name":"DONER KEBAB",
         "description":"Hand carved marinated sliced lamb and beef, grilled on a large vertical rotisserie. Served with low carb vegetables & rice pilaf. (gf-df)",
@@ -339,7 +331,7 @@
         "category":"kebabs",
         "name":"LAMB SHISH KEBAB",
         "description":"Tender cubes of lamb marinated in our special sauce. Served with low carb vegetables & bulgur pilaf. (df)",
-        "price":19.99
+        "price":27.99
     },
     {
         "category":"kebabs",
@@ -351,19 +343,19 @@
         "category":"kebabs",
         "name":"CHICKEN ADANA KEBAB GF",
         "description":"Seasoned ground chicken flavored with red bell peppers. Served with low carb vegetables & bulgur pilaf. (df)",
-        "price":23.99
+        "price":24.99
     },
     {
         "category":"kebabs",
         "name":"CHEF'S MIXED GRILL FOR 2 PEOPLE",
         "description":"Doner Kebab, Adana Kebab, Shish Kebab, Chicken Kebab, Chicken Adana Kebab Served with grilled vegetable and bulgur pilaf.",
-        "price":49.99
+        "price":54.99
     },
     {
         "category":"kebabs",
         "name":"KOFTE KEBAB",
         "description":"Patties of freshly ground beef and lamb lightly seasoned with spices. Served with low carb vegetables & rice pilaf. (gf-df)",
-        "price":17.99
+        "price":25.99
     },
     {
         "category":"kebabs",
@@ -375,7 +367,7 @@
         "category":"kebabs",
         "name":"ADANA KEBAB GF",
         "description":"Seasoned ground lamb flavored with red bell peppers. Served with low carb vegetables & bulgur pilaf. (df)",
-        "price":17.99
+        "price":26.99
     },
     {
         "category":"kebabs",
@@ -387,13 +379,13 @@
         "category":"kebabs",
         "name":"CHICKEN THIGHS",
         "description":"Chicken marinated in our special sauce. Served with low carb vegetables & bulgur pilaf. (df)",
-        "price":23.99
+        "price":24.99
     },
     {
         "category":"kebabs",
         "name":"CHEF'S MIXED GRILL FOR 4 PEOPLE",
         "description":"Doner, Adana, Shish, Chicken, Chicken Adana Kebab Served with low carb vegetables & bulgur pilaf.",
-        "price":94.99
+        "price":99.99
     },
     {
         "category":"kebabs",
@@ -414,7 +406,7 @@
         "category":"chefs-specials",
         "name":"SHEPHERD CASSEROLE GF",
         "description":"Lamb sauteed with garlic, onions, peppers, tomatoes and special herbs. Served with rice pilaf. (gf-df)",
-        "price":25.99
+        "price":27.99
     },
     {
         "category":"chefs-specials",
@@ -432,7 +424,7 @@
         "category":"chefs-specials",
         "name":"VEGETABLE STEW",
         "description":"Assorted fresh garden vegetables cooked in a fresh tomato sauce and served with rice pilaf. (gf-df-v)",
-        "price":19.99
+        "price":21.99
     },
     {
         "category":"chefs-specials",
@@ -462,7 +454,7 @@
         "category":"chefs-specials",
         "name":"SPICY CHICKEN SAUTE",
         "description":"Chicken sautéed with tomatoes, mushroom, onion, garlic, red and green peppers. Served with rice pilaf. (gf-df)",
-        "price":16.99
+        "price":25.99
     },
     {
         "category":"chefs-specials",
@@ -529,7 +521,7 @@
         "category":"steaks",
         "name":"LAMB CHOPS",
         "description":"Delicately marinated and baby lamb chops. Served with low carb vegetables & mashed potatoes. (gf)",
-        "price":38.99
+        "price":41.99
     },
 
 
@@ -606,12 +598,8 @@
 
 
 
-    {
-        "category":"dessert",
-        "name":"BAKLAVA",
-        "description":"Sheets of phyllo dough stuffed with crushed walnuts. (n)",
-        "price":10.99
-    },
+
+
     {
         "category":"dessert",
         "name":"CHOCOLATE PUDDING",
@@ -691,7 +679,7 @@
         "category":"sandwiches",
         "name":"FALAFEL",
         "description":"Fried chickpeas and vegetables served with shepherd salad and hummus.",
-        "price":14.99
+        "price":15.99
     },
     {
         "category":"sandwiches",
@@ -784,7 +772,7 @@
         "category":"drinks",
         "name":"ORANGE JUICE",
         "description":"",
-        "price":4.99
+        "price":5.00
     },
     {
         "category":"drinks",
@@ -838,17 +826,12 @@
         "category":"drinks",
         "name":"PEPSI PRODUCTS",
         "description":"(Pepsi, Diet Pepsi, Lemonade, Crush, Twist, Ginger Ale, Mtn Dew, Diet Mtn Dew, Iced Tea, Unsweet Iced Tea)",
-        "price":3.50
+        "price":5.00
     },
 
 
 
-    {
-        "category":"sides",
-        "name":"CHEESE PLATE",
-        "description":"",
-        "price":15.99
-    },
+   
     {
         "category":"sides",
         "name":"FRENCH FRIES",
@@ -897,12 +880,7 @@
         "description":"",
         "price":3.99
     },
-    {
-        "category":"sides",
-        "name":"BREAD EXTRA",
-        "description":"",
-        "price":3.99
-    },
+    
     {
         "category":"sides",
         "name":"DIPPING SAUCE",
@@ -964,7 +942,7 @@
         "category":"coctail",
         "name":"GOBAKA",
         "description":"Kahlua, baileys,chocolate liqour.",
-        "price":12
+        "price":13
     },
     {
         "category":"coctail",
@@ -994,7 +972,7 @@
         "category":"coctail",
         "name":"POMEGRANATE MARTINI",
         "description":"Vodka,pomegranate liquor, lime juice",
-        "price":12
+        "price":13
     },
     {
         "category":"coctail",
