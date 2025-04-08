@@ -577,12 +577,7 @@
         "description":"Home-made flatbread topped with mozzarella and Turkish beef pepperoni.",
         "price":21.99
     },
-    {
-        "category":"from-the-oven",
-        "name":"MEAT CUBES FLATBREAD",
-        "description":"Home-made flatbread topped with cubes meat, chopped garden vegetables and mozarella.",
-        "price":21.99
-    },
+    
     {
         "category":"from-the-oven",
         "name":"SPINACH FLATBREADS",
