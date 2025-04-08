@@ -749,7 +749,7 @@
     },
     {
         "category":"sandwiches",
-        "name":"FALAFEL LUNCH",
+        "name":"FALAFEL SANDWICH",
         "description":"",
         "price":15.99
     },
@@ -826,7 +826,7 @@
         "category":"drinks",
         "name":"PEPSI PRODUCTS",
         "description":"(Pepsi, Diet Pepsi, Lemonade, Crush, Twist, Ginger Ale, Mtn Dew, Diet Mtn Dew, Iced Tea, Unsweet Iced Tea)",
-        "price":5.00
+        "price":4.00
     },
 
 
@@ -980,12 +980,7 @@
         "description":"Vodka, orange liquor, cranberry and lemon juices",
         "price":12
     },
-    {
-        "category":"coctail",
-        "name":"JAGERMEISTER",
-        "description":"Jagermeister, orange liquor, pomegranate syrup",
-        "price":13
-    },
+    
     {
         "category":"coctail",
         "name":"NEGRONI",
