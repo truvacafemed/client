@@ -1001,7 +1001,7 @@
         "category":"beer",
         "name":"IPA",
         "description":"",
-        "price":8
+        "price":7
     },
     {
         "category":"beer",
@@ -1025,7 +1025,7 @@
         "category":"beer",
         "name":"MICHELOB",
         "description":"",
-        "price":8
+        "price":6
     },
     {
         "category":"beer",
@@ -1043,13 +1043,13 @@
         "category":"beer",
         "name":"BUD LIGHT",
         "description":"",
-        "price":7
+        "price":6
     },
     {
         "category":"beer",
         "name":"MILLER LITE",
         "description":"",
-        "price":7
+        "price":6
     },
     {
         "category":"beer",
